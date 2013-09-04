@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+}
+#category span{
+    cursor:pointer;
+}
+#category .item{
+    padding: 5px;
+    background: rgba(0,0,0,.7);
+    color:#fff;
+}
+#category .add{
+    padding: 5px;
+    background: rgba(170,160,190,.7);
+    color:#fff;
+        
+}
+input, textarea{
+    border:1px solid rgba(150,150,150,.2);
+    font-size: 17px;
+    width:500px;
+}
+.d table{
+    color:#fff;
+}
+.d{
+    padding: 7px;
+}
+.d table input[type="button"], .d table input[type="submit"]{
+    float: right;
+    width: auto;
+    margin: 2px;
+}
+#gallery h1{
+    background: rgba(0,0,0,.9);
+    color:#fff;
+    padding: 5px;
+}
+#gallery .add{
+    padding: 5px;
+    background: rgba(170,160,190,.7);
+    color:#fff;
+    cursor:pointer;
+    font-size: 12px;
+    float: right; 
+    margin-top: 5px;   
+}
+#gallery div{
+    display: inline-block;
+    cursor:pointer;
+}
